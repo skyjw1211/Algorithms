@@ -1,3 +1,4 @@
+#피보나치 수 5
 n= int(input())
 
 def fibo(n):
